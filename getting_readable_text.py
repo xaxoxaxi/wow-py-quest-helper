@@ -1,7 +1,8 @@
 '''
-Toq abort 'prerabotva' cancer-a ot comentarite ot HTML na readable string format za output!
+Preraboten script. Validen za s1otvetniq site (bez usable API) .
 
-za sega ne raboti i ne trqbva da se pipa !
+#Todo: Trqbva da se raz6iri logikata za tabulaciq i new lines,
+ v s1otvetstvie s ma6tabite na gui-to.
 '''
 
 def getting_readable_text(text_list):
